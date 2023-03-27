@@ -18,3 +18,6 @@ Then you can execute the client up to four times
 - Wait for the client to load before executing the next
 
 - The server needs to be restarted whenever the match ends or a player is disconnected
+
+## Screenshots
+![screenshot1](https://user-images.githubusercontent.com/91585064/228032050-a226d2b9-bc17-4e27-a43c-20b235cd98e3.jpeg)
