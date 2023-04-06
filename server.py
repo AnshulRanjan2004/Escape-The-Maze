@@ -1,7 +1,7 @@
 import socket, pickle
 from _thread import *
 
-address = ("localhost", 61111)
+address = ("192.168.167.2", 61111)
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 

@@ -3,7 +3,7 @@ import socket, pickle
 class Network:
     def __init__(self):
         self.client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        self.server = "localhost"
+        self.server = "192.168.167.2"
         self.port = 61111
         self.addr = (self.server, self.port)
         self.position = self.connect()
